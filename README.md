@@ -67,3 +67,14 @@ Additional sensors for testing are avilable via the `ros-kinetic-robotnik-sensor
 * IMU
 * GPS
 * odometry
+
+
+### Lidar based
+
+This is completly based on lidar data (velodyne 16) and therefore there is a need to install pcl in your system for point cloud processong and conversion of point cloud to cones cluster.
+
+### Commands
+
+- roslaunch eufs_gazebo small_track.launch
+- roslaunch robot_control robot_control.launch
+- rosrun pointcloud_process final_script.py
