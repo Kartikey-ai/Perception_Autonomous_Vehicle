@@ -69,6 +69,11 @@ Additional sensors for testing are avilable via the `ros-kinetic-robotnik-sensor
 * odometry
 
 
+![LiDAR View](https://user-images.githubusercontent.com/67441175/125790316-02379bbc-f311-4f8a-94c7-64c193623c8e.jpeg)
+![LiDAR View](https://user-images.githubusercontent.com/67441175/125790318-7b978ded-bfc4-4869-95d5-54ff367d3175.jpeg)
+
+
+
 ### Lidar based
 
 This is completly based on lidar data (velodyne 16) and therefore there is a need to install pcl in your system for point cloud processong and conversion of point cloud to cones cluster.
