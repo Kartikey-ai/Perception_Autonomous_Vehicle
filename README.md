@@ -27,7 +27,7 @@ ROS/Gazebo simulation packages for driverless FSAE vehicles.
 * ros-kinetic-joint-state-controller
 * ros-kinetic-gazebo-ros-control
 
-Or if you are lazy like my here's a one-liner
+Or if you are lazy like my here's a one-liner.
 ```
 sudo apt-get install ros-kinetic-ackermann-msgs ros-kinetic-twist-mux ros-kinetic-joy ros-kinetic-controller-manager ros-kinetic-robotnik-msgs ros-kinetic-velodyne-simulator ros-kinetic-effort-controllers ros-kinetic-velocity-controllers ros-kinetic-joint-state-controller ros-kinetic-gazebo-ros-control ros-kinetic-robotnik-msgs
 ```
